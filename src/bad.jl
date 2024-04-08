@@ -10,17 +10,7 @@ using PlutoUI
 # ╔═╡ 2e22cdd1-4d9c-43c4-8738-7386399c729c
 using Plots
 
-# ╔═╡ 48ec6284-f567-11ee-2084-7338925b5888
-# f(x) = exp(x) - 2.0
-
-# ╔═╡ 277820be-3b6b-46b4-a484-b452292c539a
-# left, right = 0.0, 1.0
-
-# ╔═╡ 878a7694-72a6-4779-837f-688b66097801
-# f(left)*f(right)
-
 # ╔═╡ e4855a68-6671-4068-a40e-f9e29365f020
-# with_terminal() do
 begin
 	f(x) = exp(x) - 2.0
 	
@@ -68,7 +58,7 @@ PLUTO_MANIFEST_TOML_CONTENTS = """
 
 julia_version = "1.10.2"
 manifest_format = "2.0"
-project_hash = "007fbb57db0277a809224fb92fc2c3ad5ea07613"
+project_hash = "96ab7e5c842e5b78275931aa408ac317df932c60"
 
 [[deps.AbstractPlutoDingetjes]]
 deps = ["Pkg"]
@@ -1157,9 +1147,6 @@ version = "1.4.1+1"
 
 # ╔═╡ Cell order:
 # ╠═fcb458be-9291-44f5-b4cc-e4d3c6b106d1
-# ╠═48ec6284-f567-11ee-2084-7338925b5888
-# ╠═277820be-3b6b-46b4-a484-b452292c539a
-# ╠═878a7694-72a6-4779-837f-688b66097801
 # ╠═e4855a68-6671-4068-a40e-f9e29365f020
 # ╠═2e22cdd1-4d9c-43c4-8738-7386399c729c
 # ╠═8a09c917-08dd-476b-947b-5630df81adf1
